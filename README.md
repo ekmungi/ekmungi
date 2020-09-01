@@ -4,7 +4,7 @@ My name is Anant. I am a Computer scientist and a Biomedical engineer. I build n
 
 I am also an avid (private) photographer. I love singing, mostly hindi old melodies from 60s-80s and bhajans.
 
-In my free time I looking to improve my skills in application of computer vision to raspberry pi.
+In my free time I looking to improve my skills in application of computer vision to raspberry pi. I am interested in collaborating with people on connected devices in healthcare.
 
 <!--
 **ekmungi/ekmungi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
